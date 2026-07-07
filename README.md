@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himanshubhatt-23/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/himanshubhatt-23/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/himanshubhatt-23/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/himanshubhatt-23/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/himanshubhatt-23/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

@@ -16,12 +16,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/himanshubhatt-23/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshubhatt-23/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshubhatt-23/Leetcode/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->

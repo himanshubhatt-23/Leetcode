@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/himanshubhatt-23/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/himanshubhatt-23/Leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/himanshubhatt-23/Leetcode/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/himanshubhatt-23/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshubhatt-23/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/himanshubhatt-23/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -62,5 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/himanshubhatt-23/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshubhatt-23/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/himanshubhatt-23/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

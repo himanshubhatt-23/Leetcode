@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1922-count-good-numbers](https://github.com/himanshubhatt-23/Leetcode/tree/master/1922-count-good-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/himanshubhatt-23/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/himanshubhatt-23/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/himanshubhatt-23/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/himanshubhatt-23/Leetcode/tree/master/0018-4sum) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/himanshubhatt-23/Leetcode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->

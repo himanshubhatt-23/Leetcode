@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/himanshubhatt-23/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/himanshubhatt-23/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/himanshubhatt-23/Leetcode/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshubhatt-23/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/himanshubhatt-23/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/himanshubhatt-23/Leetcode/tree/master/0443-string-compression) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/himanshubhatt-23/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/himanshubhatt-23/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/himanshubhatt-23/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/himanshubhatt-23/Leetcode/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
 | ------- |

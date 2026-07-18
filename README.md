@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/himanshubhatt-23/Leetcode/tree/master/0217-contains-duplicate) |
 | [0733-flood-fill](https://github.com/himanshubhatt-23/Leetcode/tree/master/0733-flood-fill) |
 | [0976-largest-perimeter-triangle](https://github.com/himanshubhatt-23/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himanshubhatt-23/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/himanshubhatt-23/Leetcode/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/himanshubhatt-23/Leetcode/tree/master/0733-flood-fill) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himanshubhatt-23/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/himanshubhatt-23/Leetcode/tree/master/0733-flood-fill) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himanshubhatt-23/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->

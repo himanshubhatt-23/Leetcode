@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/himanshubhatt-23/Leetcode/tree/master/0733-flood-fill) |
 | [0976-largest-perimeter-triangle](https://github.com/himanshubhatt-23/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himanshubhatt-23/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/himanshubhatt-23/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/himanshubhatt-23/Leetcode/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/himanshubhatt-23/Leetcode/tree/master/0733-flood-fill) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himanshubhatt-23/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/himanshubhatt-23/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Depth-First Search
 |  |
 | ------- |

@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshubhatt-23/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/himanshubhatt-23/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/himanshubhatt-23/Leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/himanshubhatt-23/Leetcode/tree/master/0443-string-compression) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanshubhatt-23/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/himanshubhatt-23/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/himanshubhatt-23/Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/himanshubhatt-23/Leetcode/tree/master/0036-valid-sudoku) |
+| [0133-clone-graph](https://github.com/himanshubhatt-23/Leetcode/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/himanshubhatt-23/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshubhatt-23/Leetcode/tree/master/0242-valid-anagram) |
 | [0840-magic-squares-in-grid](https://github.com/himanshubhatt-23/Leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/himanshubhatt-23/Leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshubhatt-23/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshubhatt-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0733-flood-fill](https://github.com/himanshubhatt-23/Leetcode/tree/master/0733-flood-fill) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/himanshubhatt-23/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0133-clone-graph](https://github.com/himanshubhatt-23/Leetcode/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/himanshubhatt-23/Leetcode/tree/master/0733-flood-fill) |
 ## Binary Search
 |  |
@@ -174,5 +177,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/himanshubhatt-23/Leetcode/tree/master/0133-clone-graph) |
 | [0997-find-the-town-judge](https://github.com/himanshubhatt-23/Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->

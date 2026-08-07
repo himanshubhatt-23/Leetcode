@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himanshubhatt-23/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/himanshubhatt-23/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshubhatt-23/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3693-climbing-stairs-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/himanshubhatt-23/Leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshubhatt-23/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3693-climbing-stairs-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Divide and Conquer
 |  |
 | ------- |

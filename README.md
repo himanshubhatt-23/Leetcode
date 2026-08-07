@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/himanshubhatt-23/Leetcode/tree/master/0048-rotate-image) |
+| [0412-fizz-buzz](https://github.com/himanshubhatt-23/Leetcode/tree/master/0412-fizz-buzz) |
 | [0840-magic-squares-in-grid](https://github.com/himanshubhatt-23/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0976-largest-perimeter-triangle](https://github.com/himanshubhatt-23/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1922-count-good-numbers](https://github.com/himanshubhatt-23/Leetcode/tree/master/1922-count-good-numbers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/himanshubhatt-23/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/himanshubhatt-23/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/himanshubhatt-23/Leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/himanshubhatt-23/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/himanshubhatt-23/Leetcode/tree/master/0443-string-compression) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/himanshubhatt-23/Leetcode/tree/master/0412-fizz-buzz) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshubhatt-23/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Linked List
 |  |

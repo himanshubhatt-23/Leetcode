@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/himanshubhatt-23/Leetcode/tree/master/0739-daily-temperatures) |
 | [0840-magic-squares-in-grid](https://github.com/himanshubhatt-23/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0976-largest-perimeter-triangle](https://github.com/himanshubhatt-23/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/himanshubhatt-23/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/himanshubhatt-23/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himanshubhatt-23/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/himanshubhatt-23/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/himanshubhatt-23/Leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/himanshubhatt-23/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/himanshubhatt-23/Leetcode/tree/master/0443-string-compression) |
+| [0977-squares-of-a-sorted-array](https://github.com/himanshubhatt-23/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/himanshubhatt-23/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshubhatt-23/Leetcode/tree/master/0242-valid-anagram) |
 | [0976-largest-perimeter-triangle](https://github.com/himanshubhatt-23/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/himanshubhatt-23/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |

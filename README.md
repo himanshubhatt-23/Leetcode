@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/himanshubhatt-23/Leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/himanshubhatt-23/Leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/himanshubhatt-23/Leetcode/tree/master/0412-fizz-buzz) |
 | [0840-magic-squares-in-grid](https://github.com/himanshubhatt-23/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0976-largest-perimeter-triangle](https://github.com/himanshubhatt-23/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/himanshubhatt-23/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/himanshubhatt-23/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/himanshubhatt-23/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshubhatt-23/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3693-climbing-stairs-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/himanshubhatt-23/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

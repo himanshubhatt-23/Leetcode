@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/himanshubhatt-23/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/himanshubhatt-23/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/himanshubhatt-23/Leetcode/tree/master/0443-string-compression) |
+| [1021-remove-outermost-parentheses](https://github.com/himanshubhatt-23/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshubhatt-23/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshubhatt-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/himanshubhatt-23/Leetcode/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/himanshubhatt-23/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/himanshubhatt-23/Leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/himanshubhatt-23/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Manacher
 |  |
 | ------- |

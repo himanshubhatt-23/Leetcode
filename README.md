@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/himanshubhatt-23/Leetcode/tree/master/0412-fizz-buzz) |
 | [0840-magic-squares-in-grid](https://github.com/himanshubhatt-23/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0976-largest-perimeter-triangle](https://github.com/himanshubhatt-23/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1903-largest-odd-number-in-string](https://github.com/himanshubhatt-23/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/himanshubhatt-23/Leetcode/tree/master/1922-count-good-numbers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshubhatt-23/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/himanshubhatt-23/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/himanshubhatt-23/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/himanshubhatt-23/Leetcode/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/himanshubhatt-23/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/himanshubhatt-23/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/himanshubhatt-23/Leetcode/tree/master/0011-container-with-most-water) |
 | [0976-largest-perimeter-triangle](https://github.com/himanshubhatt-23/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1903-largest-odd-number-in-string](https://github.com/himanshubhatt-23/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |

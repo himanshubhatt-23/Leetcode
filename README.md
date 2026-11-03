@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/himanshubhatt-23/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/himanshubhatt-23/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/himanshubhatt-23/Leetcode/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/himanshubhatt-23/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/himanshubhatt-23/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/himanshubhatt-23/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/himanshubhatt-23/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/himanshubhatt-23/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

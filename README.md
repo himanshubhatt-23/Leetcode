@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/himanshubhatt-23/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/himanshubhatt-23/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3693-climbing-stairs-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3693-climbing-stairs-ii) |
+| [4100-minimum-cost-path-with-even-xor-parity](https://github.com/himanshubhatt-23/Leetcode/tree/master/4100-minimum-cost-path-with-even-xor-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/himanshubhatt-23/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/himanshubhatt-23/Leetcode/tree/master/0509-fibonacci-number) |
 | [3693-climbing-stairs-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/3693-climbing-stairs-ii) |
+| [4100-minimum-cost-path-with-even-xor-parity](https://github.com/himanshubhatt-23/Leetcode/tree/master/4100-minimum-cost-path-with-even-xor-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshubhatt-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/himanshubhatt-23/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/himanshubhatt-23/Leetcode/tree/master/0733-flood-fill) |
+| [4100-minimum-cost-path-with-even-xor-parity](https://github.com/himanshubhatt-23/Leetcode/tree/master/4100-minimum-cost-path-with-even-xor-parity) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/himanshubhatt-23/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/himanshubhatt-23/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/himanshubhatt-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [4100-minimum-cost-path-with-even-xor-parity](https://github.com/himanshubhatt-23/Leetcode/tree/master/4100-minimum-cost-path-with-even-xor-parity) |
 ## Binary Tree
 |  |
 | ------- |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/himanshubhatt-23/Leetcode/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [4100-minimum-cost-path-with-even-xor-parity](https://github.com/himanshubhatt-23/Leetcode/tree/master/4100-minimum-cost-path-with-even-xor-parity) |
 <!---LeetCode Topics End-->
